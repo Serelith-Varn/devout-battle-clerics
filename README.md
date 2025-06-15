@@ -48,4 +48,3 @@ Opção 1 — Instalação por Manifest URL
 Distribuído sob a Licença MIT.
 💬 Criação por Serelith
 Apoia a criatividade, a expressão e o caos sagrado nos teus jogos.
-

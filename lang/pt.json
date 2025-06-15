@@ -1,0 +1,12 @@
+{
+  "TEMPLATE.ActorType.character": "Personagem",
+  "TEMPLATE.ItemType.move": "Manobra",
+  "TEMPLATE.ItemType.magic": "Magia",
+  "LABEL.Divine": "Divino",
+  "LABEL.Performance": "Performance",
+  "LABEL.Rebellion": "Rebeldia",
+  "LABEL.Instrument": "Instrumento de Fé",
+  "LABEL.DivineStyle": "Estilo Divino",
+  "LABEL.SignatureMove": "Manobra Assinada",
+  "LABEL.BandPower": "Poder da Banda"
+}

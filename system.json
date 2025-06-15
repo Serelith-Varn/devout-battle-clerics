@@ -1,0 +1,42 @@
+{
+  "id": "devout-battle-clerics",
+  "title": "Devout Battle Clerics",
+  "description": "Um RPG teatral de fé sagrada, ruído mágico e rebeldia ritual. Baseado em Sexy Battle Wizards.",
+  "version": "0.1.0",
+  "compatibility": {
+	"minimum": "13.341",
+	"verified": "13"
+  },
+  "author": "Serelith",
+  "url": "https://github.com/serelith/devout-battle-clerics",
+"license": "MIT",
+  "esmodules": ["module/simple.js"],
+  "styles": ["styles/simple.css"],
+  "packs": [],
+  "languages": [
+    {
+      "lang": "en",
+      "name": "English",
+      "path": "lang/en.json"
+    },
+    {
+      "lang": "pt",
+      "name": "Português",
+      "path": "lang/pt.json"
+    }
+  ],
+  "compatibility": {
+    "minimum": "10",
+    "verified": "11"
+  },
+  "grid": {
+    "distance": 5,
+    "units": "ft"
+  },
+  "primaryTokenAttribute": "health",
+  "secondaryTokenAttribute": "power",
+  "manifest": "https://raw.githubusercontent.com/serelith/devout-battle-clerics/main/system.json",
+  "download": "https://github.com/serelith/devout-battle-clerics/archive/refs/heads/main.zip",
+  
+
+}
