@@ -25,10 +25,6 @@
       "path": "lang/pt.json"
     }
   ],
-  "grid": {
-    "distance": 5,
-    "units": "ft"
-  },
   "primaryTokenAttribute": "health",
   "secondaryTokenAttribute": "power",
   "manifest": "https://raw.githubusercontent.com/Serelith-Varn/devout-battle-clerics/main/system.json",

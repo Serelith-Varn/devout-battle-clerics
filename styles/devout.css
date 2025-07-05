@@ -1,0 +1,77 @@
+/* Base styling for Devout Battle Clerics sheets */
+.devout-battle-clerics.sheet.actor,
+.devout-battle-clerics.sheet.item {
+  font-family: "Segoe UI", sans-serif;
+  padding: 10px;
+}
+
+/* Sheet Headers */
+.sheet-header {
+  display: flex;
+  align-items: center;
+  margin-bottom: 10px;
+}
+.sheet-header img.profile-img {
+  border: 2px solid #888;
+  border-radius: 8px;
+  margin-right: 10px;
+}
+
+/* Input fields */
+input[type="text"], input[type="number"] {
+  width: 100%;
+  padding: 3px;
+  margin: 2px 0;
+  border: 1px solid #aaa;
+  border-radius: 4px;
+}
+
+/* Labels and resource blocks */
+.resource {
+  margin-bottom: 10px;
+}
+.resource label {
+  font-weight: bold;
+  display: block;
+  margin-bottom: 2px;
+}
+
+/* Tab styles */
+.sheet-tabs {
+  border-bottom: 1px solid #ccc;
+  margin-bottom: 10px;
+}
+.sheet-tabs .item {
+  margin-right: 10px;
+  padding: 5px;
+  font-weight: bold;
+  cursor: pointer;
+}
+.sheet-tabs .item.active {
+  border-bottom: 2px solid #333;
+}
+
+/* Tab content sections */
+.tab {
+  padding: 10px;
+}
+.tab h2, .tab h3 {
+  margin-top: 0;
+  color: #444;
+}
+
+/* Item list */
+.item-list {
+  list-style: none;
+  padding: 0;
+}
+.item-list .item {
+  padding: 5px;
+  border-bottom: 1px solid #ccc;
+}
+.item-list .item img {
+  margin-right: 5px;
+}
+.item-controls {
+  float: right;
+}
